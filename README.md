@@ -1,0 +1,2 @@
+# Manufacturing-Automotive---Contextual-Predictive-Maintenance-IoT-Edge-AI-
+Developed a predictive maintenance framework by fusing IoT sensor data (vibration, current, temperature) with external factors such as weather, traffic, and operational load. Applied ensemble machine learning models to predict equipment failures early, reducing downtime and maintenance costs while improving system reliability.
